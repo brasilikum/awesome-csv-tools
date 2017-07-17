@@ -13,7 +13,7 @@ As [RFC 4180](https://tools.ietf.org/html/rfc4180#section-2) states:
   
 This leads to incompatibilities and many cases to handle in csv parsers.
 
-**This list collect awesome tools to work with csv if you still have to**
+**This list collects awesome tools to work with csv, if you still have to do so!**
 
 ## Tools
 
