@@ -30,3 +30,8 @@ This leads to incompatibilities and many cases to handle in csv parsers.
 - [pgfutter](https://github.com/lukasmartinelli/pgfutter) - Import CSV and JSON into PostgreSQL the easy way
 - [pgloader](https://github.com/dimitri/pgloader) - Provides advanced options for importing files ([including CSV](http://pgloader.io/howto/quickstart.html)) into PostgresSQL
 
+### CSV Manipulation
+- [visidata](https://github.com/saulpw/visidata) - A terminal interface for exploring and arranging tabular data
+
+### Visualisation
+- [raw](https://github.com/densitydesign/raw) - The missing link between spreadsheets and data visualization
